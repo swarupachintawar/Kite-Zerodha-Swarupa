@@ -64,6 +64,7 @@ public class KiteZerodhaDashboardPage {
 	public void clickOnRegular()
 	{
 		regular.click();
+		regular.click();
 	}
 	
 	public boolean statusOfIntraday()
